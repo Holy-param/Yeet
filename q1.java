@@ -1,10 +1,5 @@
 
-/**
- * Write a description of class q1 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class q1
 {
   void main()
