@@ -1,10 +1,5 @@
 //wap to take three integer and print the values in asending order
-/**
- * Write a description of class int3 here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
 public class int3
 {
   void main(int a,int b,int c)
